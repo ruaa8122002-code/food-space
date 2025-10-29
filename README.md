@@ -1,16 +1,18 @@
-# app11
+FoodSpace App:
 
-A new Flutter project.
+تطبيق Flutter لتصميم واجهات تطبيق خاص بمطعم، بيسمح للمستخدمين يستعرضوا الوجبات، ويشوفوا تفاصيلها بطريقة بسيطة وواضحة.  
+تم تصميم الواجهات باستخدام مبادئ (UI/UX) لسهولة الاستخدام وجمالية الشكل.  
 
-## Getting Started
+ التقنيات المستخدمة:
+- Flutter  
+- Dart  
+- Figma (لتصميم الواجهات قبل البرمجة)  
 
-This project is a starting point for a Flutter application.
+هيكل المشروع:
+- lib/: يحتوي الكود الأساسي للتطبيق (models, services, helper, main.dart, وغيرها)  
+- images/: يحتوي الصور المستخدمة داخل الواجهات  
+- pubspec.yaml: يضم إعدادات المشروع والمكتبات  
 
-A few resources to get you started if this is your first Flutter project:
+رؤى : مهندسة اتصالات مهتمة بتطوير واجهات المستخدم والتطبيقات باستخدام Flutter وFigma.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+المشروع تم إنشاؤه لأغراض تدريبية وعرض المهارات في التصميم والبرمجة.
